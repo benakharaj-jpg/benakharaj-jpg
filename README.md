@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:6ee7b7&height=220&section=header&text=👋%20Benakaraj%20Gowda%20S%20U&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h3 align="center">💻 Front-End Developer | Software Developer | MERN Stack Learner</h3>
+<h3 align="center">💻 Front-End Developer | Software Developer | Data Analyst</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=4000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=650&lines=Front-End+Developer+%26+UI+Designer;Passionate+about+Interactive+Web+Apps;C%2B%2B+Programmer+%7C+React+Developer;Always+Learning+New+Technologies+🔥" alt="Typing SVG" />
