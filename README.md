@@ -15,7 +15,7 @@
 
 ### 🧑‍💻 About Me  
 - 🚀 Front-End Developer specialized in creating **interactive web apps**
-- 💡 Skilled in **C++, HTML, CSS, JavaScript, and SQL**
+- 💡 Skilled in **C++, Python, Numpy, Pandas, Matplotlib, Seaborn, POWER BI, Tableau, HTML, CSS, JavaScript, and SQL**
 - ⚙️ Tools: **VS Code, Git, GitHub, Figma, Visual Studio 2022**
 - 🎯 Focused on **Performance, Clean Design & User Experience**
 - 📫 Connect on [**LinkedIn**](https://www.linkedin.com/in/benakarajgowdasu)
