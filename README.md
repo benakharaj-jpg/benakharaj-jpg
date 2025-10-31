@@ -15,8 +15,7 @@
 
 ### 🧑‍💻 About Me  
 - 🚀 Front-End Developer specialized in creating **interactive web apps**
-- 💡 Skilled in **C++, HTML, CSS, JavaScript, React.js, and SQL**
-- 🌱 Exploring **Full Stack (MERN) Development**
+- 💡 Skilled in **C++, HTML, CSS, JavaScript, and SQL**
 - ⚙️ Tools: **VS Code, Git, GitHub, Figma, Visual Studio 2022**
 - 🎯 Focused on **Performance, Clean Design & User Experience**
 - 📫 Connect on [**LinkedIn**](https://www.linkedin.com/in/benakarajgowdasu)
