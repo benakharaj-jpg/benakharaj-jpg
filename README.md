@@ -88,10 +88,10 @@
 ---
 
 ### ✨ Achievements
-- 🥇 **Completed Google Data Analytics Course**
-- 🎯 **Developed MFC Calculator & Aircraft Fuel Calculator**
-- 💬 **Active GitHub Contributor**
-- 📜 **Certified Front-End Developer**
+- 🥇 **Completed POWER BI Microsoft course provided by Simplilearn**
+- 🎯 **Completed Data Analytics course provided by IBM SkillsBuild**
+- 💬 **Completed Data Analytics course in QSpiders training Institute, Mysore**
+- 📜 **Participated in Intercllegiate Project Exhibition**
 
 ---
 
