@@ -91,7 +91,8 @@
 - 🥇 **Completed POWER BI Microsoft course provided by Simplilearn**
 - 🎯 **Completed Data Analytics course provided by IBM SkillsBuild**
 - 💬 **Completed Data Analytics course in QSpiders training Institute, Mysore**
-- 📜 **Participated in Intercllegiate Project Exhibition**
+- 📜 **Completed Python course provided by Analytics Vidhya**
+- 🏈 **Participated in Intercllegiate Project Exhibition**
 
 ---
 
