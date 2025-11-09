@@ -93,7 +93,7 @@
 - 💬 **Completed Data Analytics course in QSpiders training Institute, Mysore**
 - 📜 **Completed Python course provided by Analytics Vidhya**
 - 🏈 **Participated in Intercllegiate Project Exhibition**
-- 📈 **Participated in Design Thinking workshop and Hackathon
+- 📈 **Participated in Design Thinking Workshop and Hackathon**
 
 ---
 
